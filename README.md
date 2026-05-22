@@ -56,6 +56,10 @@ This project serves both as:
 
 ---
 
+## Topology Diagram
+
+![Topology Diagram](images/topology-v1.png)
+
 ## VLAN & Trust Zone Strategy
 
 | VLAN | Purpose | Description |
