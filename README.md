@@ -19,6 +19,23 @@ This project serves both as:
 
 ---
 
+## Table of Contents
+
+- [Core Objectives](#core-objectives)
+- [Environment Overview](#environment-overview)
+- [Technologies Used](#technologies-used)
+- [Topology Diagram](#topology-diagram)
+- [VLAN & Trust Zone Strategy](#vlan--trust-zone-strategy)
+- [Documentation Areas](#documentation-areas)
+- [Current Focus Areas](#current-focus-areas)
+- [Design Philosophy](#design-philosophy)
+- [Security & Sanitization](#security--sanitization)
+- [Repository Status](#repository-status)
+- [Current Repository Milestone](#current-repository-milestone)
+- [License](#license)
+
+---
+
 ## Core Objectives
 
 - Build a segmented multi-VLAN network
@@ -91,15 +108,15 @@ This project serves both as:
 
 ## Documentation Areas
 
-| Directory | Purpose |
+| Section | Purpose |
 |---|---|
-| `docs/architecture` | Network and infrastructure design |
-| `docs/deployment` | Deployment procedures and platform integration |
-| `docs/troubleshooting` | Operational incidents and troubleshooting history |
-| `docs/lessons-learned` | Engineering and operational lessons |
-| `docs/changelog` | Repository milestone tracking |
-| `images` | Sanitized diagrams and screenshots |
-| `references` | Supporting research and implementation references |
+| [Architecture](docs/architecture/) | Network and infrastructure design |
+| [Deployment](docs/deployment/) | Platform integration and deployment procedures |
+| [Troubleshooting](docs/troubleshooting/) | Operational incidents and troubleshooting history |
+| [Lessons Learned](docs/lessons-learned/) | Engineering and operational lessons |
+| [Changelog](docs/changelog/changelog.md) | Repository milestone tracking |
+| [Images](images/) | Sanitized diagrams and screenshots |
+| [References](references/) | Supporting technical research and references |
 
 ---
 
