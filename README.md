@@ -56,6 +56,23 @@ This project serves both as:
 
 ---
 
+## Technologies Used
+
+- Proxmox VE
+- UniFi Networking
+- VLAN Segmentation
+- Linux Containers (LXC)
+- Pi-hole
+- Uptime Kuma
+- Homer Dashboard
+- TrueNAS SCALE
+- ZFS Storage Planning
+- Infrastructure Documentation
+- Network Segmentation
+- Self-Hosted Services
+
+---
+
 ## Topology Diagram
 
 ![Topology Diagram](images/topology-v1.png)
@@ -132,3 +149,39 @@ All sensitive information has been removed or generalized prior to publication, 
 Active development and documentation project.
 
 Architecture, deployment notes, troubleshooting history, and operational lessons will continue expanding as the environment evolves.
+
+---
+
+## Current Repository Milestone
+
+### v1.0 — Initial Infrastructure Architecture Documentation
+
+Current repository scope includes:
+- network segmentation architecture
+- infrastructure standards
+- Proxmox integration
+- troubleshooting documentation
+- operational lessons learned
+- service inventory tracking
+- monitoring philosophy
+- backup and recovery planning
+- topology diagrams
+- infrastructure evolution tracking
+
+---
+
+## Planned Future Expansion
+
+Future repository growth areas include:
+- infrastructure automation
+- observability tooling
+- advanced monitoring
+- infrastructure-as-code experimentation
+- cloud integration
+- platform engineering concepts
+
+---
+
+## License
+
+This repository is published under the MIT License.
